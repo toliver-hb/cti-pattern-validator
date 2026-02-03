@@ -2,8 +2,8 @@ CHANGELOG
 =========
 
 
-2.1.0 - Not Yet Released
-------------------------
+2.1.0 - Released 2026-02-03
+---------------------------
 
 * Update to ANTLR 4.13 (@brianatdetections)
 * Add Python 3.13 & Python 3.14 support
